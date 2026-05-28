@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Omar Nafukho Chitechi</h1>
+<h1 align="center"> Hi, I'm Omar Nafukho Chitechi</h1>
 <h3 align="center">ICT Support Specialist | Full-Stack Developer | Digital Skills Trainer</h3>
 
 <p align="center">
@@ -87,7 +87,7 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
   </a>
 </p>
 
-**📧 Email:** [your-email@example.com](mailto:your-email@example.com)  
+**📧 Email:** [your-email@example.com](mailto:mraonafukho@gmail.com)  
 **🌐 Portfolio:** [mrao-dev.free.nf](https://mrao-dev.free.nf)
 
 ---
