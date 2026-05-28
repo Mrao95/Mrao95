@@ -87,7 +87,7 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
   </a>
 </p>
 
-**📧 Email:** [your-email@example.com](mailto:mraonafukho@gmail.com)  
+**📧 Email:** [mraonafukho@gmail.com](mailto:mraonafukho@gmail.com)  
 **🌐 Portfolio:** [mrao-dev.free.nf](https://mrao-dev.free.nf)
 
 ---
