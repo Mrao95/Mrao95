@@ -67,13 +67,13 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/Mrao195" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wa.me/254729953650" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://www.youtube.com/@your-youtube-handle" target="_blank">
+  <a href="https://youtube.com/@Mrao195" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://www.tiktok.com/@your-tiktok-handle" target="_blank">
