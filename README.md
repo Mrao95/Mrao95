@@ -10,34 +10,34 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a dedicated ICT professional with **4+ years of experience** in computer hardware, networking, and full-stack web development. I bridge the gap between technical support and software development.
 
-- 🔭 **Currently working on:** AI-powered agricultural advisory system (Mkulima Smart AI)
-- 🌱 **Learning:** Advanced PHP Security & Cloud Deployment (AWS)
-- 👯 **Looking to collaborate on:** Open source PHP/Laravel projects for SMEs
-- 💬 **Ask me about:** ICT Lab Management, PHP/MySQL, Network Troubleshooting
-- 📄 **My Portfolio:** [mrao-dev.free.nf](https://mrao-dev.free.nf)
-- ⚡ **Fun fact:** 98% positive feedback on 200+ closed IT tickets!
+  **Currently working on:** AI-powered agricultural advisory system (Mkulima Smart AI)
+  **Learning:** Advanced PHP Security & Cloud Deployment (AWS)
+  **Looking to collaborate on:** Open source PHP/Laravel projects for SMEs
+  **Ask me about:** ICT Lab Management, PHP/MySQL, Network Troubleshooting
+  **My Portfolio:** [mrao-dev.free.nf](https://mrao-dev.free.nf)
+  **Fun fact:** 98% positive feedback on 200+ closed IT tickets!
 
 ---
 
-## 📈 Current GitHub Status
+## Current GitHub Status
 
 <p>
   <img src="https://img.shields.io/github/followers/mrao95?label=Followers&style=social" alt="Followers">
   <img src="https://img.shields.io/github/stars/mrao95?label=Stars&style=social" alt="Stars">
 </p>
 
-> 🏗️ **I am actively migrating my portfolio projects from local development to GitHub.**  
+>  **I am actively migrating my portfolio projects from local development to GitHub.**  
 > New repositories will be added weekly with full documentation, database schemas, and setup guides.
 
-**📦 First Repository Coming:** *Portfolio Website Source Code* – Uploading within 48 hours
+** First Repository Coming:** *Portfolio Website Source Code* – Uploading within 48 hours
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -56,11 +56,11 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Mkulima Smart AI** | AI-powered agricultural advisory for Kenyan farmers | PHP, AI API, MySQL | 📦 Migrating |
-| **Salon Management System** | Customer, service & appointment management | PHP, MySQL, Bootstrap | 📦 Migrating |
-| **Outpatient System** | Patient registration & appointment management | PHP, MySQL | 📦 Migrating |
-| **Attendance System** | Teacher attendance & report generation | PHP, MySQL | 📦 Migrating |
-| **Milling System** | Management for maize milling services | PHP, MySQL | 📦 Migrating |
+| **Mkulima Smart AI** | AI-powered agricultural advisory for Kenyan farmers | PHP, AI API, MySQL |  Migrating |
+| **Salon Management System** | Customer, service & appointment management | PHP, MySQL, Bootstrap | Migrating |
+| **Outpatient System** | Patient registration & appointment management | PHP, MySQL | Migrating |
+| **Attendance System** | Teacher attendance & report generation | PHP, MySQL |  Migrating |
+| **Milling System** | Management for maize milling services | PHP, MySQL |  Migrating |
 
 ---
 
