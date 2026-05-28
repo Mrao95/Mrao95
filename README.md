@@ -11,10 +11,10 @@
 - 👯 I’m looking to collaborate on **Open source Laravel or PHP projects for SMEs**
 - 🤝 I’m looking for help with **Automated testing for my PHP/MySQL systems**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mrao-dev.free.nf)**
-- 📝 I write technical articles on [Your Blog URL - optional]
+- 📝 I write technical articles on [My Blog URL]
 - 💬 Ask me about **ICT Lab Management, PHP/MySQL, Network Troubleshooting**
-- 📫 How to reach me: **[Your Email] | [Your WhatsApp link]**
-- 📄 Know about my experiences: [Link to your PDF CV]
+- 📫 How to reach me: **[mraonafukho@gmail.com] | [My WhatsApp link]**
+- 📄 Know about my experiences: [Link to my PDF CV]
 - ⚡ Fun fact: **I've trained 100+ students in ICT and closed 200+ IT tickets with 98% satisfaction!**
 
 <h3 align="left">Connect with me:</h3>
