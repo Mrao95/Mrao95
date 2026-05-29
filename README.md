@@ -59,6 +59,7 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
 ### 💻 Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,py,ts" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
 ### 🖥️ IT & Hardware
