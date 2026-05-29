@@ -68,6 +68,33 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
   </p>
 
 ---
+---
+
+## 🛠 Technical Skills
+
+### 💻 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,py,ts" />
+</p>
+
+### 🖥️ IT & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCTV-FF0000?style=for-the-badge&logo=camera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware%20Repair-FF5722?style=for-the-badge&logo=ifixit&logoColor=white" />
+</p>
+
+### 📊 Productivity & Tools
+<p>
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-00C4B4?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 ## 📂 Featured Projects (Coming to GitHub)
 
