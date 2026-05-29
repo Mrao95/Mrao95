@@ -73,18 +73,6 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
 
 ---
 
-## 📂 Featured Projects (Coming to GitHub)
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Mkulima Smart AI** | AI-powered agricultural advisory for Kenyan farmers | PHP, AI API, MySQL |  Migrating |
-| **Salon Management System** | Customer, service & appointment management | PHP, MySQL, Bootstrap | Migrating |
-| **Outpatient System** | Patient registration & appointment management | PHP, MySQL | Migrating |
-| **Attendance System** | Teacher attendance & report generation | PHP, MySQL |  Migrating |
-| **Milling System** | Management for maize milling services | PHP, MySQL |  Migrating |
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
