@@ -30,16 +30,9 @@
 
 ## About Me
 
-I'm a dedicated ICT professional with **4+ years of experience** in computer hardware, networking, and full-stack web development. I bridge the gap between technical support and software development.
+I'm a dedicated ICT professional with **4+ years of experience** in computer hardware, networking, and full-stack web development. I bridge the gap between technical support and software development. My Portfolio: [mrao-dev.free.nf](https://mrao-dev.free.nf)
 
-  **Currently working on:** AI-powered agricultural advisory system (Mkulima Smart AI)
-  **Learning:** Advanced PHP Security & Cloud Deployment (AWS)
-  **Looking to collaborate on:** Open source PHP/Laravel projects for SMEs
-  **Ask me about:** ICT Lab Management, PHP/MySQL, Network Troubleshooting
-  **My Portfolio:** [mrao-dev.free.nf](https://mrao-dev.free.nf)
-  **Fun fact:** 98% positive feedback on 200+ closed IT tickets!
-
----
+ ---
 
 ## Current GitHub Status
 
