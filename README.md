@@ -30,7 +30,8 @@
 
 ## About Me
 
-I'm a dedicated ICT professional with **4+ years of experience** in computer hardware, networking, and full-stack web development. I bridge the gap between technical support and software development. My Portfolio: [mrao-dev.free.nf](https://mrao-dev.free.nf)
+I'm a dedicated ICT professional with **4+ years of experience** in computer hardware, networking, and full-stack web development. I bridge the gap between technical support and software development. 
+**My Portfolio:** [mrao-dev.free.nf](https://mrao-dev.free.nf)
 
  ---
 
