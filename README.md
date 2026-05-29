@@ -1,5 +1,5 @@
 <!-- Gradient Wave Banner --> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm %20Omar%20Nafukho%20Chitechi&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm %20Omar%20Nafukho%20Chitechi&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
 <h3 align="center">ICT Support Specialist | Full-Stack Developer | Digital Skills Trainer</h3>
 
 
