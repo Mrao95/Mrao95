@@ -39,8 +39,6 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
 
 ## Current GitHub Status
 
- ---
-
 <p>
   <img src="https://img.shields.io/github/followers/mrao95?label=Followers&style=social" alt="Followers">
   <img src="https://img.shields.io/github/stars/mrao95?label=Stars&style=social" alt="Stars">
