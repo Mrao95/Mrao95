@@ -1,12 +1,34 @@
-<!-- Gradient Wave Banner --> 
+<div align="center">
+
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Omar+Nafukho+Chitechi;ICT+Professional+|+Web+Developer;Problem+Solver+|+Tech+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG" />
+
+<!-- Gradient Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Nafukho%20Chitechi&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Mombasa%2C%20Kenya-blue" alt="Location">
-  <img src="https://img.shields.io/github/followers/mrao95?label=Followers&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/badge/200%2B-IT%20Tickets%20Closed-success" alt="IT Tickets">
-  <img src="https://img.shields.io/badge/100%2B-Students%20Trained-orange" alt="Students Trained">
+<!-- Profile Stats Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mrao95&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mrao95?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mrao95?label=Total%20Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Kenya-🇰🇪-blue?style=flat-square" alt="Kenya" />
 </p>
+
+<!-- Skill Badges -->
+<p>
+  <img src="https://img.shields.io/badge/IT%20Support-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Developer-3C873A?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware%20Maintenance-FC4A1A?style=for-the-badge&logo=ifixit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lab%20Management-FF6C37?style=for-the-badge&logo=labview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+</div>
+
+<br/>
 
 ---
 
