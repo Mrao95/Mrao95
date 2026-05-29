@@ -47,7 +47,7 @@ I'm a dedicated ICT professional with **4+ years of experience** in computer har
 >  **I am actively migrating my portfolio projects from local development to GitHub.**  
 > New repositories will be added weekly with full documentation, database schemas, and setup guides.
 
-**First Repository Coming:** *Portfolio Website Source Code* – Uploading within 48 hours
+**First Repository Coming:**  *Portfolio Website Source Code* – Uploading within 48 hours
 
 ---
 ## 🛠 Technical Skills
