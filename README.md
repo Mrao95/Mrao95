@@ -1,11 +1,10 @@
-<h1 align="center"> Hi, I'm Omar Nafukho Chitechi</h1>
+<!-- Gradient Wave Banner --> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm %20Omar%20Nafukho%20Chitechi&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
+<h3 align="center">ICT Support Specialist | Full-Stack Developer | Digital Skills Trainer</h3>
+
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello,+I'm+Omar+Nafukho+Chitechi;ICT+Professional+|+Web+Developer;Problem+Solver+|+Tech+Enthusiast;Welcome+to+my+GitHub" alt="Typing SVG" />
-
-<!-- Gradient Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Nafukho%20Chitechi&fontSize=50&fontAlignY=35&desc=ICT%20Generalist%20%7C%20Web%20Developer%20%7C%20Tech%20Trainer&descAlignY=55&animation=fadeIn" width="100%" />
-<h3 align="center">ICT Support Specialist | Full-Stack Developer | Digital Skills Trainer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mombasa%2C%20Kenya-blue" alt="Location">
